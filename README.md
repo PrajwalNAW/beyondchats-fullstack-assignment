@@ -151,10 +151,6 @@ node rewrite.js
 
 ---
 
-## 🌐 Live Deployment
-
-* **Frontend Live URL:** `<PASTE VERCEL LINK HERE>`
-* **Backend:** Local / Deployable on Render
 
 ## ⚠️ Automation & LLM Execution Note
 
